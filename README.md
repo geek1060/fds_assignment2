@@ -1,7 +1,3 @@
-Certainly! Here's the **rewritten version of the README** in a clean, structured format that's ideal for GitHub, preserving all original details and meaning while enhancing clarity and flow:
-
----
-
 # Social Media Analytics MapReduce Workflow
 
 This repository hosts a complete MapReduce-based workflow tailored for social media data analytics. It processes two datasets—`social_media_logs.txt` and `user_profiles.txt`—to uncover user behavior patterns, detect trending content, and generate comprehensive analytics by joining both datasets.
@@ -270,5 +266,3 @@ Access via: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 - ✅ Review `workflow.log` for error details
 
 ---
-
-Let me know if you'd like a version with Markdown badges, collapsible sections, or to auto-generate a Table of Contents for GitHub!

@@ -179,11 +179,10 @@ Merges logs and profiles:
 ### 5️⃣ Data Visualization
 
 Visual summaries:
-- Static and interactive formats
+- Output Images
 
 **Implementation Files**:
 - `visualize_analytics.py` (static PNGs)
-- `analytics_dashboard.py` (Dash-based UI)
 
 ---
 
@@ -237,22 +236,6 @@ Run with:
 ```bash
 python visualize_analytics.py --input-dir output --output-dir visualizations
 ```
-
----
-
-### 🌐 Interactive Dashboard (`analytics_dashboard.py`)
-
-Features:
-- User activity overview
-- Trending content analysis
-- Correlation exploration
-- Real-time interaction
-
-Launch:
-```bash
-python analytics_dashboard.py
-```
-Access via: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 
 ---
 

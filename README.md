@@ -51,7 +51,7 @@ For running on Windows with PyCharm:
 ## 📁 Project Structure
 
 ```
-social_media_analytics/
+fds_assignment2/
 ├── config.json                   # Configuration file
 ├── README.md                     # Project documentation
 │
@@ -75,12 +75,10 @@ social_media_analytics/
 │   ├── trending_content_mapper.py
 │   ├── trending_content_combiner.py
 │   ├── trending_content_reducer.py
-│   ├── social_media_analytics_driver.py
 │   ├── join_activity_mapper.py
 │   ├── join_profile_mapper.py
 │   ├── join_reducer.py
 │   ├── visualize_analytics.py
-│   ├── analytics_dashboard.py
 │   ├── skew_detection.py
 │   └── memory_monitor.py
 │

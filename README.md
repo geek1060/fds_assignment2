@@ -56,11 +56,11 @@ fds_assignment2/
 ├── README.md                     # Project documentation
 │
 ├── data/                         # Input datasets
-│   ├── social_media_logs.txt
+│   ├── social_media_logs.txt      (File ommitted due to sise restrictions)
 │   └── user_profiles.txt
 │
 ├── output/                       # Generated outputs
-│   ├── cleansed_data.txt
+│   ├── cleansed_data.txt         (File ommitted due to sise restrictions)
 │   ├── user_activity.txt
 │   ├── trending_content.txt
 │   ├── skew_analysis.json
